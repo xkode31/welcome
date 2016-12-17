@@ -6,4 +6,7 @@ Github: lol!
      work.github(){
          return: sussec;
          }
-     }
+     }   
+ $main project[{
+     start;
+     
