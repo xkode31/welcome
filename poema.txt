@@ -2,3 +2,8 @@ Nuno: Welcome to my codes!
 Github: You be welcome, Nuno!lol
 Nuno: no you welcome github.
 Github: lol!
+ function(){
+     work.github(){
+         return: sussec;
+         }
+     }
